@@ -10,7 +10,6 @@ This project demonstrates a simple car sharing web application.
 
 
 
-
 ## Table of contents
 
   - [Project Information](#Project-information)
